@@ -2,7 +2,7 @@
 
 <img width="2000" height="2000" alt="superior" src="https://github.com/user-attachments/assets/bca32905-deea-4dde-975a-6fe49e99b683" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,100:3f3f46&text=Superior%20Inc&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Award-winning%20product%20studio&descAlignY=58&descSize=18&animation=fadeIn" alt="Superior Inc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,100:3f3f46&text=Superior%20Inc&fontColor=ffffff&fontSize=64&fontAlignY=38&&descAlignY=58&descSize=18&animation=fadeIn" alt="Superior Inc" width="100%" />
 
 <a href="https://www.superiorinc.uk">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1400&color=8B8B95&center=true&vCenter=true&width=620&lines=Effortless+products+for+ambitious+startups.;We+build%2C+you+scale.;No+delays%2C+no+drama." alt="Effortless products for ambitious startups. We build, you scale. No delays, no drama." />
