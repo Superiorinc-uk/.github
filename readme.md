@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="2000" height="2000" alt="superior" src="https://github.com/user-attachments/assets/bca32905-deea-4dde-975a-6fe49e99b683" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,100:3f3f46&text=Superior%20Inc&fontColor=ffffff&fontSize=64&fontAlignY=38&&descAlignY=58&descSize=18&animation=fadeIn" alt="Superior Inc" width="100%" />
 
 <a href="https://www.superiorinc.uk">
