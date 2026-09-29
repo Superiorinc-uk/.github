@@ -2,7 +2,7 @@
 
 <br>
 
-**[Website](https://www.superiorinc.uk)** &nbsp;|&nbsp; **[Our Work](https://www.superiorinc.uk/services)** &nbsp;|&nbsp; **[Pricing](https://www.superiorinc.uk/pricing)** &nbsp;|&nbsp; **[Process](#process)** &nbsp;|&nbsp; **[Tech Stack](#tech-stack)**
+**[Home](https://www.superiorinc.uk)** &nbsp;|&nbsp; **[Our Work](https://www.superiorinc.uk/services)** &nbsp;|&nbsp; **[Pricing](https://www.superiorinc.uk/pricing)** &nbsp;|&nbsp; **[Process](#process)** &nbsp;|&nbsp; **[Tech Stack](#tech-stack)**
 
 ## About
 
