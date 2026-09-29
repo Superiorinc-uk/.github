@@ -140,6 +140,4 @@ Unless stated otherwise in an individual repository, code in this organisation i
 
 <sub>© Superior Inc. All rights reserved.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0a0a0a,100:3f3f46" alt="" width="100%" />
-
 </div>
