@@ -1,11 +1,5 @@
 <img width="2000" height="2000" alt="superior" src="https://github.com/user-attachments/assets/bca32905-deea-4dde-975a-6fe49e99b683" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
-  <img alt="Superior Inc: Effortless products for ambitious startups." src="./banner-dark.svg" width="100%">
-</picture>
-
 <br>
 
 **[Website](https://www.superiorinc.uk)** &nbsp;|&nbsp; **[Our Work](https://www.superiorinc.uk/services)** &nbsp;|&nbsp; **[Pricing](https://www.superiorinc.uk/pricing)** &nbsp;|&nbsp; **[Process](#process)** &nbsp;|&nbsp; **[Tech Stack](#tech-stack)**
